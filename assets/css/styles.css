@@ -4163,7 +4163,7 @@ hr {
 }
 
 .courses-area .properties__footer .restaurant-name p span {
-    color: #FF7B2E;
+    color: rgba(40, 58, 90, 0.9);
     font-size: 12px
 }
 
@@ -4176,7 +4176,7 @@ hr {
 
 .courses-area .properties:hover .border-btn2 {
     color: #fff;
-    background: #FF9F67;
+    background: rgba(40, 58, 90, 0.9);
     -webkit-transition: .4s;
     -moz-transition: .4s;
     -o-transition: .4s;
@@ -4185,7 +4185,7 @@ hr {
 
 .rating i {
     font-size: 14px;
-    color: #FF7B2E
+    color: rgba(40, 58, 90, 0.9);
 }
 
 .courses-actives button.slick-arrow {
